@@ -231,7 +231,8 @@ body {
     font-size: 20px;
     font-weight: 500;
     border: 7px solid transparent;
-    border-radius: 4px;
+    border-radius: 20px 0px 0px 10px;
+    border-radius: 10px 0px 0px 10px;
 
 
 
@@ -247,7 +248,7 @@ body {
     background-color: tomato;
 
     border-right: 7px solid transparent;
-    border-radius: 4px;
+    border-radius: 0px 10px 10px 0px;
 
     color: white;
     font-weight: 500;
