@@ -54,25 +54,38 @@ body {
     padding: 10px 10px;
 }
 
-.today-donate {
-    width: 40%;
+.i2 {
     text-align: center;
     padding-left: 450px;
 }
 
-.today-donate h1 {
+.donation {
+    width: 40%;
+
+}
+
+.h1-tag {
 
     font-size: 50px;
     color: rgba(0, 0, 0, 0.94);
-    margin: 99px 0px 25px 0px;
-    padding: 0px 0px 0px 25px;
+
 }
 
-.today-donate p {
+.donation h1 {
+    margin: 99px 0px 25px 0px;
+    padding: 0px 0px 0px 25px;
+
+}
+
+.p-tag {
     color: gray;
     font-size: 20px;
+
+}
+
+.donation p {
     margin: 0px 0px 0px 0px;
-    padding: 0px 0px 30px 25px;
+    padding: 0px 0px 30px 30px;
 }
 
 .tk-ammount {
@@ -125,4 +138,76 @@ body {
     padding: 40px 0px 30px 400px;
     border-top: 1px solid gray;
 
+}
+
+.donation-plan {
+    display: flex;
+    width: 81%;
+    padding-left: 200px;
+}
+
+.donation-plan h2 {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.donation-plan p {
+    color: gray;
+}
+
+.icon {
+
+
+    padding: 70px 10px 45px 25px;
+
+    margin: 30px 20px 40px 0px;
+    text-align: left;
+    border-radius: 5px;
+    width: 28%;
+
+}
+
+
+.food {
+    background-color: rgba(196, 217, 225, 0.856);
+}
+
+.shelter {
+    background-color: #FDE3E6;
+}
+
+.education {
+    background-color: blanchedalmond;
+}
+
+.lives-depend {
+    display: flex;
+
+    padding-left: 220px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+
+}
+
+.lives-depend img {
+    width: 60%;
+    height: 70vh;
+    margin-left: 170px;
+}
+
+.livesDepend-text {
+    width: 40%;
+    text-align: left;
+
+}
+
+#i3 {
+    padding-left: 50px;
+    padding-top: 0px;
+}
+
+#i4 {
+    padding-left: 0px;
+    padding-right: 100px;
+    margin-right: 160px;
 }
